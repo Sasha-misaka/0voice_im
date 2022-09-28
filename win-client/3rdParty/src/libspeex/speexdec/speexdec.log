@@ -1,0 +1,39 @@
+﻿  getopt.c
+  getopt1.c
+  skeleton.c
+..\src\skeleton.c(15): warning C4142: "write_ogg_page_to_file": 类型的良性重定义
+  g:\0voice\im\0voice_im\3rdparty\src\libspeex\src\skeleton.h(56): note: 参见“write_ogg_page_to_file”的声明
+..\src\skeleton.c(36): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1952): note: 参见“_snprintf”的声明
+  speexdec.c
+G:\0voice\im\0voice_im\3rdParty\src\libspeex\DDlog.h(32): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\0voice\im\0voice_im\3rdParty\src\libspeex\DDlog.h(33): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\0voice\im\0voice_im\3rdParty\src\libspeex\DDlog.h(31): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(1096): note: 参见“_splitpath”的声明
+G:\0voice\im\0voice_im\3rdParty\src\libspeex\DDlog.h(50): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\0voice\im\0voice_im\3rdParty\src\libspeex\DDlog.h(51): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\0voice\im\0voice_im\3rdParty\src\libspeex\DDlog.h(52): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\0voice\im\0voice_im\3rdParty\src\libspeex\DDlog.h(46): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(505): note: 参见“localtime”的声明
+G:\0voice\im\0voice_im\3rdParty\src\libspeex\DDlog.h(49): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+G:\0voice\im\0voice_im\3rdParty\src\libspeex\DDlog.h(53): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+G:\0voice\im\0voice_im\3rdParty\src\libspeex\DDlog.h(58): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+..\src\speexdec.c(171): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+..\src\speexdec.c(339): warning C4244: “=”: 从“ogg_int64_t”转换到“int”，可能丢失数据
+..\src\speexdec.c(505): warning C4013: “_endthread”未定义；假设外部返回 int
+..\src\speexdec.c(298): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+..\src\speexdec.c(423): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+..\src\speexdec.c(530): warning C4013: “startPlayAudio”未定义；假设外部返回 int
+..\src\speexdec.c(536): warning C4013: “MessagePump”未定义；假设外部返回 int
+  wav_io.c
+  wave_out.c
+  正在生成代码
+  已完成代码的生成
+  speexdec.vcxproj -> G:\0voice\im\0voice_im\solution\\..\bin\teamtalk\Release\speexdec.exe
+  speexdec.vcxproj -> G:\0voice\im\0voice_im\solution\\..\bin\teamtalk\Release\speexdec.pdb (Full PDB)

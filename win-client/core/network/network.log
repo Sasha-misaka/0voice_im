@@ -1,0 +1,32 @@
+﻿  dllmain.cpp
+  yaolog.cpp
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\shlobj.h(1151): warning C4091: “typedef ”: 没有声明变量时忽略“tagGPFIDL_FLAGS”的左侧
+..\..\3rdParty\src\yaolog\yaolog.cpp(1041): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+..\..\3rdParty\src\yaolog\yaolog.cpp(1059): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+  BaseSocket.cpp
+  EventDispatch.cpp
+  imconn.cpp
+  ImCore.cpp
+  Lock.cpp
+  netlib.cpp
+  network.cpp
+  Operation.cpp
+G:\0voice\im\0voice_im\include\network/Exception.h(18): warning C4275: 非 dll 接口 class“std::exception”用作 dll 接口 struct“imcore::Exception”的基
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\vcruntime_exception.h(43): note: 参见“std::exception”的声明
+  G:\0voice\im\0voice_im\include\network/Exception.h(17): note: 参见“imcore::Exception”的声明
+  OperationManager.cpp
+G:\0voice\im\0voice_im\include\network/Operation.h(58): warning C4251: “imcore::Operation::m_name”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“imcore::Operation”的客户端使用
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xstring(2633): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+  TcpSocketsManager.cpp
+  TTPBHeader.cpp
+  util.cpp
+  UtilPdu.cpp
+  stdafx.cpp
+    正在创建库 G:\0voice\im\0voice_im\solution\..\lib\Release\network.lib 和对象 G:\0voice\im\0voice_im\solution\..\lib\Release\network.exp
+  正在生成代码
+  2143 of 2150 functions (99.7%) were compiled, the rest were copied from previous compilation.
+    29 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  network.vcxproj -> G:\0voice\im\0voice_im\solution\\..\bin\teamtalk\Release\network.dll
+  network.vcxproj -> G:\0voice\im\0voice_im\solution\\..\bin\teamtalk\Release\network.pdb (Full PDB)

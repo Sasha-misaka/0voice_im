@@ -1,0 +1,10 @@
+2019-07-08 18:12:56,036 [INFO  IM] - <main.cpp>|<131>|<main>,MsgServer max files can open: 100001
+2019-07-08 18:12:56,037 [INFO  IM] - <main.cpp>|<144>|<main>,config file miss, exit...
+2019-07-08 18:13:47,823 [INFO  IM] - <main.cpp>|<131>|<main>,MsgServer max files can open: 100001
+2019-07-08 18:13:47,823 [INFO  IM] - <main.cpp>|<144>|<main>,config file miss, exit...
+2019-07-08 18:14:32,263 [INFO  IM] - <main.cpp>|<131>|<main>,MsgServer max files can open: 100001
+2019-07-08 18:14:32,263 [INFO  IM] - <main.cpp>|<148>|<main>,127.0.0.1,8700
+2019-07-08 18:14:38,292 [INFO  IM] - <BaseSocket.cpp>|<66>|<Listen>,bind failed, err_code=98
+2019-07-08 18:18:32,636 [INFO  IM] - <main.cpp>|<131>|<main>,MsgServer max files can open: 100001
+2019-07-08 18:18:32,636 [INFO  IM] - <main.cpp>|<148>|<main>,127.0.0.1,8700
+2019-07-08 18:18:32,746 [INFO  IM] - <BaseSocket.cpp>|<66>|<Listen>,bind failed, err_code=98

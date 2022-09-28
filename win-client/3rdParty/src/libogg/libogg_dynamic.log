@@ -1,0 +1,15 @@
+﻿  bitwise.c
+  framing.c
+src\framing.c(715): warning C4456: “page”的声明隐藏了上一个本地声明
+  src\framing.c(660): note: 参见“page”的声明
+src\framing.c(716): warning C4456: “bytes”的声明隐藏了上一个本地声明
+  src\framing.c(662): note: 参见“bytes”的声明
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1193,5): warning MSB8030: The linker switch "Minimum Required Version" requires "SubSystem" to be set.  Without "SubSystem", the "Minimum Required Version" would not be passed to linker and could prevent to the output binary from running on older Operating Systems.
+    正在创建库 G:\0voice\im\0voice_im\solution\..\lib\Release\libogg.lib 和对象 G:\0voice\im\0voice_im\solution\..\lib\Release\libogg.exp
+  正在生成代码
+  72 of 72 functions (100.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  libogg_dynamic.vcxproj -> G:\0voice\im\0voice_im\solution\\..\bin\teamtalk\Release\libogg.dll
+  libogg_dynamic.vcxproj -> G:\0voice\im\0voice_im\solution\\..\bin\teamtalk\Release\libogg.pdb (Full PDB)

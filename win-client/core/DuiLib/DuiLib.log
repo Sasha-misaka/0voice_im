@@ -1,0 +1,76 @@
+﻿  StdAfx.cpp
+g:\0voice\im\0voice_im\core\duilib\Core/UIManager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+g:\0voice\im\0voice_im\core\duilib\Control/UIMenu.h(73): warning C4251: “ReceiverImpl<BOOL,DuiLib::ContextMenuParam>::observers_”: class“std::map<int,ObserverImplBase<ReturnT,ParamT> *,std::less<int>,std::allocator<std::pair<const _Kty,_Ty>>>”需要有 dll 接口由 class“ReceiverImpl<BOOL,DuiLib::ContextMenuParam>”的客户端使用
+          with
+          [
+              ReturnT=BOOL,
+              ParamT=DuiLib::ContextMenuParam,
+              _Kty=int,
+              _Ty=ObserverImplBase<BOOL,DuiLib::ContextMenuParam> *
+          ]
+  g:\0voice\im\0voice_im\core\duilib\control\observer_impl_base.hpp(181): note: 参见“std::map<int,ObserverImplBase<ReturnT,ParamT> *,std::less<int>,std::allocator<std::pair<const _Kty,_Ty>>>”的声明
+          with
+          [
+              ReturnT=BOOL,
+              ParamT=DuiLib::ContextMenuParam,
+              _Kty=int,
+              _Ty=ObserverImplBase<BOOL,DuiLib::ContextMenuParam> *
+          ]
+  UIGifAnim.cpp
+  UIMenu.cpp
+  UIlib.cpp
+  DialogManager.cpp
+  UIShadow.cpp
+  WinImplBase.cpp
+  UIDelegate.cpp
+  Utils.cpp
+  UIBase.cpp
+  UIContainer.cpp
+  UIControl.cpp
+Core\UIControl.cpp(676): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+  UIDlgBuilder.cpp
+  UIManager.cpp
+  UIMarkup.cpp
+  UIRender.cpp
+Core\UIRender.cpp(1123): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
+  UIChildLayout.cpp
+  UIHorizontalLayout.cpp
+Layout\UIHorizontalLayout.cpp(270): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+  UITabLayout.cpp
+  UITileLayout.cpp
+  UIVerticalLayout.cpp
+Layout\UIVerticalLayout.cpp(253): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+  正在生成代码...
+  正在编译...
+  UIActiveX.cpp
+  UIButton.cpp
+Control\UIButton.cpp(117): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+  UICheckBox.cpp
+  UICombo.cpp
+  UIComboBox.cpp
+  UIDateTime.cpp
+Control\UIDateTime.cpp(231): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+  UIEdit.cpp
+Control\UIEdit.cpp(208): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+  UIFlash.cpp
+  UILabel.cpp
+  UIList.cpp
+Control\UIList.cpp(1460): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+Control\UIList.cpp(2010): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+  UIOption.cpp
+  UIProgress.cpp
+  UIRichEdit.cpp
+  UIScrollBar.cpp
+  UISlider.cpp
+Control\UISlider.cpp(243): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+  UIText.cpp
+Control\UIText.cpp(52): warning C4302: “类型转换”: 从“LPWSTR”到“WORD”截断
+  UITreeView.cpp
+  UIWebBrowser.cpp
+  正在生成代码...
+  stb_image.c
+  XUnzip.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1193,5): warning MSB8030: The linker switch "Minimum Required Version" requires "SubSystem" to be set.  Without "SubSystem", the "Minimum Required Version" would not be passed to linker and could prevent to the output binary from running on older Operating Systems.
+    正在创建库 G:\0voice\im\0voice_im\solution\..\lib\Release\DuiLib.lib 和对象 G:\0voice\im\0voice_im\solution\..\lib\Release\DuiLib.exp
+  DuiLib.vcxproj -> G:\0voice\im\0voice_im\solution\..\bin\teamtalk\Release\DuiLib.dll
+  DuiLib.vcxproj -> G:\0voice\im\0voice_im\solution\..\bin\teamtalk\Release\DuiLib.pdb (Full PDB)

@@ -1,0 +1,7 @@
+2022-06-17 21:28:34,623 [INFO  IM] - <login_server.cpp>|<126>|<main>,server start listen on:
+For client 0.0.0.0:8008
+For MsgServer: 0.0.0.0:8100
+For http:0.0.0.0:8080
+
+2022-06-17 21:28:34,623 [INFO  IM] - <login_server.cpp>|<131>|<main>,now enter the event loop...
+

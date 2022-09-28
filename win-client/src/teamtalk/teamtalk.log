@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+g:\0voice\im\0voice_im\core\duilib\Core/UIManager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  teamtalk.cpp
+  MainDialog.cpp
+  MainDialog_Event.cpp
+  MainDialog_TrayIcon.cpp
+  正在生成代码
+  All 694 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  teamtalk.vcxproj -> G:\0voice\im\0voice_im\solution\\..\bin\teamtalk\Release\0voice_im.exe
+  teamtalk.vcxproj -> G:\0voice\im\0voice_im\solution\\..\bin\teamtalk\Release\0voice_im.pdb (Full PDB)

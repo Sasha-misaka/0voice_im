@@ -1,0 +1,62 @@
+﻿  stdafx.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atlplus.h(26): warning C4467: 已弃用 ATL 属性的使用情况
+  GifSmiley.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atlplus.h(26): warning C4467: 已弃用 ATL 属性的使用情况
+  GifSmileyCtrl.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atlplus.h(26): warning C4467: 已弃用 ATL 属性的使用情况
+  mAniImage.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atlplus.h(26): warning C4467: 已弃用 ATL 属性的使用情况
+  正在生成代码...
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\sal.h(2866): warning RC4005: '__useHeader' : redefinition
+  
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\sal.h(2876): warning RC4005: '__on_failure' : redefinition
+  
+    正在创建库 G:\0voice\im\0voice_im\solution\..\lib\Release\GifSmiley.lib 和对象 G:\0voice\im\0voice_im\solution\..\lib\Release\GifSmiley.exp
+  Microsoft (R) 32b/64b MIDL Compiler Version 7.00.0555 
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  Processing .\vc140.idl
+  vc140.idl
+  Processing C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\mshtml.idl
+  mshtml.idl
+  Processing C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\ocidl.idl
+  ocidl.idl
+  Processing C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\oleidl.idl
+  oleidl.idl
+  Processing C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\objidl.idl
+  objidl.idl
+  Processing C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\unknwn.idl
+  unknwn.idl
+  Processing C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\wtypes.idl
+  wtypes.idl
+  Processing C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\basetsd.h
+  basetsd.h
+  Processing C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\guiddef.h
+  guiddef.h
+  Processing C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\oaidl.idl
+  oaidl.idl
+  Processing C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\servprov.idl
+  servprov.idl
+  Processing C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\urlmon.idl
+  urlmon.idl
+  Processing C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\msxml.idl
+  msxml.idl
+  Processing C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\dimm.idl
+  dimm.idl
+  Processing C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\shtypes.idl
+  shtypes.idl
+  Processing C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\dispex.idl
+  dispex.idl
+  Processing C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\mshtmhst.idl
+  mshtmhst.idl
+  Processing C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\docobj.idl
+  docobj.idl
+  Processing C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\exdisp.idl
+  exdisp.idl
+  Processing C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\objsafe.idl
+  objsafe.idl
+  Processing C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\oaidl.acf
+  oaidl.acf
+  Processing C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\ocidl.acf
+  ocidl.acf
+  GifSmiley2003.vcxproj -> G:\0voice\im\0voice_im\solution\\..\bin\teamtalk\Release\GifSmiley.dll
+  GifSmiley2003.vcxproj -> G:\0voice\im\0voice_im\solution\\..\bin\teamtalk\Release\GifSmiley.pdb (Full PDB)
